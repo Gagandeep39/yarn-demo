@@ -5,5 +5,8 @@
   "repository": "https://github.com/Gagandeep39/yarn-demo",
   "author": "Gagandeep Singh",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
