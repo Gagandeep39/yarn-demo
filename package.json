@@ -1,0 +1,9 @@
+{
+  "name": "yarn-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Gagandeep39/yarn-demo",
+  "author": "Gagandeep Singh",
+  "license": "MIT",
+  "private": true
+}
